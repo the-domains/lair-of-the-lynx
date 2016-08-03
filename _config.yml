@@ -6,9 +6,9 @@ color:
   saturation: 0.8746565280016512
   rhythmicContrast: 0.9375214304309338
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 name: lair of the lynx

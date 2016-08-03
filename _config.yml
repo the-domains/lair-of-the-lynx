@@ -1,4 +1,3 @@
-layout_spectrum: 0.4176738699898124
 typography_spectrum: 0.7363134119659662
 color:
   brandStrength: 0.8358861713204533
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.4176738699898124
 name: lair of the lynx
 title: welcome to lair of the lynx
+description: a test site
